@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Js.
 - 💞️ I’m looking to collaborate on Froentend web development projects.
 - 📫 How to reach me 
-facebook
+facebook <a href="facebook.com">facebook.com</a>
 
 <!---
 IH-Tahim/IH-Tahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
