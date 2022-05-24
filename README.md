@@ -1,6 +1,6 @@
 <h3 align="center">Hi there, I'm Imam Hasan Tahim  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h3>
 <p align="center">
-  <a href="https://github.com/IH-Tahim/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Web+Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
